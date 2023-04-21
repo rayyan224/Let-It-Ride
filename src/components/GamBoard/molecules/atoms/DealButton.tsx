@@ -25,4 +25,5 @@ const DivDealButton = styled.div`
   justify-content: center;
   align-items: center;
   text-align: center;
+  cursor: pointer;
 `;

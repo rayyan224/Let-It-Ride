@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import { DealButton } from "./molecules/atoms/DealButton";
 import { CommunityCardTitle } from "./molecules/CommunitCardTitle";
 import { CommunityCards } from "./molecules/CommunityCard";
 import { YourCards } from "./molecules/YourCards";

@@ -30,6 +30,7 @@ const DivStyled = styled.div`
   background-color: #f8e678;
   flex-direction: column;
   justify-content: space-evenly;
+  cursor: pointer;
 `;
 
 const PTitleStyled = styled.h1`
